@@ -1,0 +1,13 @@
+{
+  "botToken": "VOTRE_TOKEN_DE_BOT",
+  "webhookId": "ID_DU_WEBHOOK",
+  "webhookToken": "TOKEN_DU_WEBHOOK",
+  "Ascii": true,
+  "AsciiContent": "VOTRE_TEXTE_ASCII",
+  "sql": {
+    "host": "ADRESSE_DU_SERVEUR_SQL",
+    "user": "UTILISATEUR_SQL",
+    "password": "MOT_DE_PASSE_SQL",
+    "database": "NOM_DE_LA_BASE_DE_DONNÉES"
+  }
+}
