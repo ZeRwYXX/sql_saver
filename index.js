@@ -91,10 +91,10 @@ client.on('ready', async () => {
   if (config.Ascii) {
     const { chalk, gradient } = await loadDependencies();
     await logBanner(chalk, gradient);
-    console.log(chalk.green('discord.gg/ZeRwYX'));
+    console.log(chalk.green('discord.gg/Fast-RP'));
   } else {
     const { chalk } = await loadDependencies();
-    console.log(chalk.green('discord.gg/ZeRwYX'));
+    console.log(chalk.green('discord.gg/Fast-RP'));
   }
 
   // Déclencher la sauvegarde de la base de données au démarrage
